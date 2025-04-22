@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008420694500",
+    "project_id": "motivv-6eb24",
+    "storage_bucket": "motivv-6eb24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008420694500:android:04e90e9daf331a8cf2fff1",
+        "android_client_info": {
+          "package_name": "com.example.motivv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmMvAnVjEEs2wzwJ01XfsbVUxGt-mEdrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
