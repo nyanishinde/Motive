@@ -10,5 +10,12 @@
     <string name="new_to_motivv">New to Motivv ?</string>
     <string name="register_here">Register here</string>
 
+    <string name="register_text">Let’s get to know you better!</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="password_text">~ Your password must be at least 8 characters long and include a mix of letters, numbers, and special characters</string>
+    <string name="join_motivv">Join Motivv</string>
+    <string name="join_using_google">Join using google</string>
 
 </resources>
